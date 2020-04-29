@@ -1,0 +1,5 @@
+Git status // Para ver el estatus
+
+Git commit -m "primer commit"
+
+
