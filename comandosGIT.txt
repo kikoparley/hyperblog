@@ -9,7 +9,8 @@ git config --global user.email // Configurar correo
 code historia.txt (nombre del archivo) //Abre visual studio code
 
 git log historia.txt (Historia del commit) // ver historia del archivo
-
+git branch cabecera // crear branch
+git checkout cabecera // cambiar al branch cabecera
 git reset ffca29b46aa1b1e8ba398ee91a395333d2e2b0de --hard 
 scape shift zz (VIM)  // VIM 
 git checkout ffca29b46aa1b1e8ba398ee91a395333d2e2b0de historia.txt // revisar un archivo en una version anterior
