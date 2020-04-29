@@ -9,3 +9,8 @@ git config --global user.email // Configurar correo
 code historia.txt (nombre del archivo) //Abre visual studio code
 
 git log historia.txt (Historia del commit) // ver historia del archivo
+
+git reset ffca29b46aa1b1e8ba398ee91a395333d2e2b0de --hard 
+scape shift zz (VIM)  // VIM 
+
+git diff ffca29b46aa1b1e8ba398ee91a395333d2e2b0de  07bad8c90fec39f7ddc7c04ca9b1af9906c7b989 // comparar commit

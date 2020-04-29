@@ -14,4 +14,3 @@ rm vacio.txt // Para borrar con cuidado
 rm --help // para ver la ayuda
 
 Clear //Para limpiar la linea de comandos
-
