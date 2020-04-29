@@ -1,0 +1,17 @@
+cd D. // para ubicarme en D
+
+ls  // para listar los arhivos
+
+cd Mis //para listar las carpetas Tab para elegir
+
+History // para ver el historial
+
+! 10(numero del comando)
+
+
+rm vacio.txt // Para borrar con cuidado
+
+rm --help // para ver la ayuda
+
+Clear //Para limpiar la linea de comandos
+
