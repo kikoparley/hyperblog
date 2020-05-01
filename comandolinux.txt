@@ -27,3 +27,9 @@ git pull origin master --allow-unrelated-histories //
 
 
 git config --global user.mail "emailnuevo" // para cambiar el correo
+
+
+// servidor ssh
+eval $(ssh-agent -s)
+
+cd ~ (alt+126)
