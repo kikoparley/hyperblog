@@ -14,3 +14,16 @@ rm vacio.txt // Para borrar con cuidado
 rm --help // para ver la ayuda
 
 Clear //Para limpiar la linea de comandos
+
+git remote add origin + urlgithub // para emparejar con el proyecto en github
+
+git remote -v
+
+git push origin master // Para hacer push a github
+
+ git pull origin master // Traer lo que tenemos en github
+
+git pull origin master --allow-unrelated-histories // 
+
+
+git config --global user.mail "emailnuevo" // para cambiar el correo
